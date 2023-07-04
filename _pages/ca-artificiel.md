@@ -139,6 +139,7 @@ Toute ma gratitude à Colin Pahlisch pour m’avoir invité à participer au Pri
 All my gratitude to Colin Pahlisch for inviting me to participate in the Printemps de la Poésie in Lausanne, as well as Monica Unser and Rafael Santianez, co-curators of Le Cabanon, as well as the rest of the team, Marie, Clarissa, Letizia, Chloé, Janett, Lucas and Sébastien, for their enthusiasm and the impeccable professionalism they showed during the development of this project. I am also grateful to Rebecca Aston, Clément Hongler and Jacob Menick for their support and sorcery. None of this would exist without them, thank you!
 {: .EN}
 
+{: #text-type-light}
 
 {% include separators.html type='outer' %}
 
@@ -146,7 +147,6 @@ Update (2020) : « exist digressively » exposé dans une station de métro à
 {: .FR}
 
 2020 Update: « exist digressively » exhibited in a metro station in Stockholm.
-{: .EN}
 
 {% include separators.html type='blank' %}
 
@@ -155,6 +155,9 @@ Update (2020) : « exist digressively » exposé dans une station de métro à
 </div>
 
 {% include separators.html type='blank' %}
+
+{: #kirjasto}
+
 {% include separators.html type='outer' %}
 
 Update (2021) : « Artificial It » exposé à Helsinki, dans le cadre de
