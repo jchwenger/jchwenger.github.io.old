@@ -10,7 +10,7 @@
   a {
 
     text-decoration: none;
-    color: $muted-text-color;
+    color: $link-color;
 
     &:focus {
       @extend %tab-focus;
