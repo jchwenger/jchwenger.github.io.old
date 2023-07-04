@@ -1,9 +1,13 @@
 ---
-layout: splash
+layout: single
 ---
 
-{{ content }}
+{% include separators.html type='blank' %}
 
+{{ content | markdownify }}
+
+
+{% comment %}
 
 {% if site.posts.size > 0 %}
   <h1 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "" }}</h1>
@@ -59,3 +63,5 @@ layout: splash
     <p class="archive__item-excerpt" itemprop="description">{{ project.pitch }}</p>
   </div>
   {% endfor %}
+
+{% endcomment %}
