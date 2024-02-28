@@ -112,22 +112,6 @@ The texts presented here fit into three categories: <i>Logisms</i> gathers words
 {: .EN}
 
 {% include separators.html type='outer' %}
- 
-[Ça artificiel, « pour commencer... »](/artificial-it-ii){:target="_blank"}  
-[Ça artificiel](/ait){:target="_blank"}  
-[Morceaux](/artificial-it-ii-lumps){:target="_blank"}  
-[Logismes](/logisms){:target="_blank"}  
-[L'écriture et son double (essai)](/writing-double){:target="_blank"}  
-{: .FR}
-
-[Artificial It, "to begin with..."](/artificial-it-ii){:target="_blank"}  
-[Artificial It](/ait){:target="_blank"}  
-[Lumps](/artificial-it-ii-lumps){:target="_blank"}  
-[Logisms](/logisms){:target="_blank"}  
-[Writing and its Double (essay)](/writing-double){:target="_blank"}  
-{: .EN}
-
-{% include separators.html type='outer' %}
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149814356@N07/albums/72157707790765025" title="«Ça artificiel. L’écriture à l’épreuve de la machine»"><img src="https://live.staticflickr.com/7919/47509693092_86cf0a33d2_o.jpg" width="4928" height="3264" alt="«Ça artificiel. L’écriture à l’épreuve de la machine»"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
