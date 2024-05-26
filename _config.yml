@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Jérémie C. Wenger"
-  # avatar           : 
+  avatar           : "/assets/jcw_colour_square.jpg"
   bio              : "Mostly text. Literature, programming, AI. (he/him)"
   location         : "London"
   email            : "jeremie[dot]wenger[at]gmail[dot]com"
