@@ -5,9 +5,9 @@ classes: homepage
 author_profile: true
 ---
 
-Mostly text.
+Mostly text. Literature, programming, AI.
 
-*(2 words)*
+*(5 words)*
 {: .text-right}
 
 {% include separators.html type='outer' %}
