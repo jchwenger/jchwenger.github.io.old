@@ -202,13 +202,13 @@ author:
 footer:
   links:
     - label: ""
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fa-solid fa-square-envelope"
       url: "mailto: jeremie[dot]wenger[at]gmail[dot]com"
     - label: ""
-      icon: "fab fa-fw fa-github"
+      icon: "fa-brands fa-github"
       url: https://github.com/jchwenger
     - label: ""
-      icon: "fab fa-fw fa-instagram"
+      icon: "fa-brands fa-instagram"
       url: https://www.instagram.com/jchwenger/
     - label: ""
       icon: "fa-brands fa-x-twitter"
