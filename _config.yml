@@ -211,8 +211,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/jchwenger/
     - label: ""
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/jchwenger
+      icon: "fa-brands fa-x-twitter"
+      url: https://x.com/jchwenger
     - label: ""
       icon: "linktree"
       url: https://linktr.ee/jchwenger
