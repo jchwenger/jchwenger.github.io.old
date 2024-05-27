@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "light" # "contrast", "default", "air", "aqua", "dark
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "J C W"
+title                    : "Jérémie Wenger"
 title_separator          : "-"
-name                     : "Jérémie C. Wenger"
-description              : "London. Mostly text."
+name                     : "Jérémie Wenger"
+description              : "Mostly text. Writing, programming, machine learning. (he/him)"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Jérémie C. Wenger"
   avatar           : "/assets/jcw_colour_square.jpg"
-  bio              : "(he/him)"
+  bio              : "Mostly text. Literature, programming, machine learning. (he/him)"
   location         : "London"
   email            : "jeremie[dot]wenger[at]gmail[dot]com"
   links:
