@@ -213,12 +213,12 @@ footer:
     - label: ""
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/jchwenger
-    - label: ""
-      icon: "fab fa-fw fa-soundcloud"
-      url: https://soundcloud.com/hilperic
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    # - label: ""
+    #   icon: "fab fa-fw fa-soundcloud"
+    #   url: https://soundcloud.com/hilperic
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url:
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   # url:
